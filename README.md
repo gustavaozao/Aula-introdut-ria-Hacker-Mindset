@@ -1,2 +1,2 @@
-# Aula-introdut-ria-Hacker-Mindset
+# Hacker-Mindset
 #Repositório para arquivos das aulas de Hacker Mindset
